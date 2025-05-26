@@ -38,6 +38,7 @@
 
 *Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
 
+![](image/задание2-1.png)
 ---
 
 ### Задание 3. Удаление по TTL в Memcached
